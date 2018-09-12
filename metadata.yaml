@@ -1,0 +1,32 @@
+_repo: The-Regimental-Records-of-the-British-Army-A-historical-resume-chronologically-arranged-of-ti__51165
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Farmer, John S.
+    gutenberg_agent_id: '46855'
+    url: http://www.gutenberg.org/2009/agents/46855
+  - agent_name: Farmer, John Stephen
+    aliases:
+    - Farmer, J. S. (John Stephen)
+    - Farmer, John S.
+    birthdate: 1854
+    deathdate: 1916
+    gutenberg_agent_id: '2762'
+    url: http://www.gutenberg.org/2009/agents/2762
+description: ''
+gutenberg_issued: '2016-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'UA'
+- !lcsh 'Great Britain. Army -- History'
+- GITenberg
+title: "The Regimental Records of the British Army\r\nA historical résumé chronologically\
+  \ arranged of titles, campaigns, honours, uniforms, facings, badges, nicknames,\
+  \ etc."
+url: http://www.gutenberg.org/ebooks/51165
