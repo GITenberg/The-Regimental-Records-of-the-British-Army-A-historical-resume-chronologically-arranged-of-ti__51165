@@ -1,5 +1,8 @@
 _repo: The-Regimental-Records-of-the-British-Army-A-historical-resume-chronologically-arranged-of-ti__51165
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51165-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Farmer, John S.
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '2762'
     url: http://www.gutenberg.org/2009/agents/2762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51165#The-Regimental-Records-of-the-British-Army-A-historical-resume-chronologically-arranged-of-ti_
 gutenberg_issued: '2016-02-09'
 gutenberg_type: Text
 identifiers:
